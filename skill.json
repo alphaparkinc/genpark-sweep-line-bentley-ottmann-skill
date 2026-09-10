@@ -1,0 +1,15 @@
+{
+  "name": "genpark-sweep-line-bentley-ottmann-skill",
+  "version": "1.0.0",
+  "description": "Bentley-Ottmann sweep-line algorithm detecting all pairwise line segment intersections in 2D Euclidean space.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "sweep-line",
+    "bentley-ottmann",
+    "computational-geometry",
+    "intersection-detection"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
